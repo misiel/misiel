@@ -1,4 +1,4 @@
-**POV:** Github as a social network
+**POV:** Github as a social network™️
 
 <img src="https://user-images.githubusercontent.com/23410589/197376112-c49cae96-f189-4f36-952d-5fa67fb101e8.jpg" width="500" height="100" />
 
